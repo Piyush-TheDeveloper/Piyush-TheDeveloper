@@ -12,7 +12,7 @@ I'm learning a wide range of skills that include back-end development using open
 
 Languages and Tools:
 
-<img alt="React" src="https://img.shields.io/badge/React.JS-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FCDC00.svg?style=flat-square&logo=javascript&logoColor=white"/> <img alt="AEM" src="https://img.shields.io/badge/AEM-%2320232a.svg?style=flat-square&logo=aem&logoColor=%2361DAFB"/> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/React.JS-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FCDC00.svg?style=flat-square&logo=javascript&logoColor=white"/> <img alt="AEM" src="https://img.shields.io/badge/AEM-brown?style=flat-square&logo=aem&logoColor=%2361DAFB"/> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
 
 ![](https://activity-graph.herokuapp.com/graph?username=Piyush-TheDeveloper&theme=react-dark&area=true)
 
