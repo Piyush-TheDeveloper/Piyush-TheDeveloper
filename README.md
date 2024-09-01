@@ -3,9 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Piyush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushkumar28/)](https://www.linkedin.com/in/piyushkumar28/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Piyush-yellow)](https://stackoverflow.com/users/16666791/piyush-kumar?tab=profile)
 
-I'm
-New to Full Stack Web Developer
-I'm learning a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), database(MongoDB,Mysql).
+Seasoned Front-End Developer with 7+ years of experience specializing in ReactJS, Redux, and AEM. I thrive on crafting high-performing code that enhances user experiences and drives business objectives. From collaborating seamlessly with cross-functional teams to spearheading accessibility compliance initiatives, my journey is defined by a commitment to innovation and problem-solving. With a background spanning technical support, project management, and agile software development, I bring a unique blend of skills to architect robust, scalable applications. Let's connect and explore how my passion for web development can add value to your projects.
+
+"Jindagi Main Bahut Kuch Sikhna Baki Hai"😎
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Piyush-TheDeveloper/count.svg)
